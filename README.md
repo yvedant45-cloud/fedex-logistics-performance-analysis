@@ -67,3 +67,6 @@ Skills: Python | SQL | Excel | Power BI
 ## ⭐ Conclusion
 
 This project demonstrates how exploratory data analysis can transform logistics data into meaningful insights and support data-driven business decisions.
+## 🚀 Open Project in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19Felk8pNArc8Gt0RXIZJJF2HJIsRA_Ym?usp=sharing)
